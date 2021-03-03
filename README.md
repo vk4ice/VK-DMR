@@ -83,4 +83,5 @@ Remember...if you don’t have a DMR radio.... DroidStar for Android
 devices is available on the Playstore for your Android phone or tablets.
 
 Best regards,
+
 Dave - VK4ICE
