@@ -15,6 +15,7 @@ UHF Hotspot
 Duplex Hotspot
 (Inside the hotspot zones have been setup for VK DMR and
 Brandmeister).
+
 This codeplug has zones for....
 Every analogue 2m & 70cm repeater in VK in state based zones.
 Marine (RX only)
@@ -25,24 +26,30 @@ A Calibrate zone for calibrating your Pi-Star and minimising BER.
 Satellites zone for chasing the birds. (use the side monitor button
 to open the mute)
 All RF DMR repeaters in VK
+
 Other inclusions:
 A disconnect (4000) available in the Hotspots zones. (Not sure if we
 need it, so this might be removed in a later codeplug) Just select ”
 Disconnect” (just like any talk group) and hit the PTT. I was
 experimenting......
+
 TG1910 (Links all ARNSW funded repeaters down south)
 TG1911 (Links two ARNSW funded repeaters in Far North Qld)
+
 Port Macquarie have announced they will be commissioning a repeater
 for DMR (maybe co-sited with VK2RCN) I’m awaiting the final
 frequency assignment. It is pretty much ready to go in the codeplug,
 apart from the repeater’s frequencies.
-Both, VHF and UHF simplex frequencies are now in the Hotspot zones
+
+Both, VHF and UHF DMR simplex frequencies are now in the Hotspot zones
 for quick access (TG99 Time slot1). They are called Sim_VHF and
 Sim_UHF  in the channel list (144.800MHz and 439.200MHz) I had a
 long simplex chat with Paul (VK4FPPR )today on UHF Simplex, so it
 does work well.
+
 14 new DMR repeaters have been added to the network, so these needed
 to be slid into position.
+
 For the brave.....load this one and give it a try.
 I downloaded the  BARC codeplug for the RT3S, added the newly added
 talk-groups, added the DMR ID database (and added a hotspot zone for
@@ -53,9 +60,11 @@ Queensland, with or without a hotspot. It has more than enough to
 get started and is not difficult to navigate. BARC use 439.150MHz as
 their Hotspot frequency. The “A” side of the radio is Digital, the
 “B” side is analogue (in the hotspot zones). Most are using 439.125MHz
+
 Anyhow, use it, break it.... See what additions it needs....
 Let’s see if it can be tweaked to suit us all. Time for these
 codeplugs to be released this into the wild for proper testing.
+
 Shoot me an email if you would like changes, alterations and
 additions. It's difficult keeping up with so much data, but if you would
 like a new analogue repeater added, email vk4ice@gmail.com
