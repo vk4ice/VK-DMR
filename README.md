@@ -3,7 +3,9 @@ RT384 and RT3S Codeplugs.
 (I made this available to BARC members about a month ago...then 13
 repeaters were added to the network so it had to be withdrawn just
 as quickly)
+
 Ok Guys,
+
 Brave enough to have a crack at uploading a new codeplug?
 Many new callsigns on the DMR ID database so it must be time to
 include the new ones. I see 4RMC (Brisbane) and 4RQT (Toowoomba) are
