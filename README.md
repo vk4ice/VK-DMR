@@ -30,10 +30,6 @@ to open the mute)
 All RF DMR repeaters in VK
 
 Other inclusions:
-A disconnect (4000) available in the Hotspots zones. (Not sure if we
-need it, so this might be removed in a later codeplug) Just select ”
-Disconnect” (just like any talk group) and hit the PTT. I was
-experimenting......
 
 TG1910 (Links all ARNSW funded repeaters down south)
 TG1911 (Links two ARNSW funded repeaters in Far North Qld)
