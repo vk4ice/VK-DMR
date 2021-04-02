@@ -11,9 +11,9 @@ Many new callsigns on the DMR ID database so it must be time to
 include the new ones. 
 
 I have set new zones for....
-VHF Hotspot
-UHF Hotspot
-Duplex Hotspot
+VHF Hotspot,
+UHF Hotspot,
+Duplex Hotspot,
 (Inside the hotspot zones have been setup for VK DMR and
 Brandmeister). Loads of new TG's for Brandmeister on this version 20210401 in the BM Hotspot Zone only. Repeaters are being added as I have time.
 I'm working to complete RT3S radios first....the RT84 will follow later.
