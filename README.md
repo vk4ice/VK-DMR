@@ -1,5 +1,5 @@
 # VK-DMR Codeplugs for Retevis RT84 & RT3S DMR hand-held radios.
-RT384 and RT3S Codeplugs.
+RT84 and RT3S Codeplugs.
 (I made this available to BARC members about a month ago...then 13
 repeaters were added to the network so it had to be withdrawn just
 as quickly)
@@ -8,15 +8,19 @@ Ok Guys,
 
 Brave enough to have a crack at uploading a new codeplug?
 Many new callsigns on the DMR ID database so it must be time to
-include the new ones. I see 4RMC (Brisbane) and 4RQT (Toowoomba) are
-back on the dashboard too.
+include the new ones. 
 
 I have set new zones for....
 VHF Hotspot
 UHF Hotspot
 Duplex Hotspot
 (Inside the hotspot zones have been setup for VK DMR and
-Brandmeister).
+Brandmeister). Loads of new TG's for Brandmeister on this version 20210401 in the BM Hotspot Zone only. Repeaters are being added as I have time.
+I'm working to complete RT3S radios first....the RT84 will follow later.
+
+I have set the BM Hotspot Zone to 439.175 as I can't get my hotspot (Pi-Star) to multi-mode at this stage. I run one hotspot on 439.125 for VKDMR (It is actually a duplex spot -7 offset) and BM on 439.175. Seems they co-exist as long as they are separated by a few meters physically.
+
+Scanning.... still working on it.
 
 This codeplug has zones for....
 Every analogue 2m & 70cm repeater in VK in state based zones.
@@ -35,9 +39,7 @@ TG1910 (Links all ARNSW funded repeaters down south)
 TG1911 (Links two ARNSW funded repeaters in Far North Qld)
 
 Port Macquarie have announced they will be commissioning a repeater
-for DMR (maybe co-sited with VK2RCN) I’m awaiting the final
-frequency assignment. It is pretty much ready to go in the codeplug,
-apart from the repeater’s frequencies.
+for DMR (co-sited with VK2RCN) Codeplug is ready to go. Later, this repeater will be moved to it's own location and frequrncy assignment.
 
 Both, VHF and UHF DMR simplex frequencies are now in the Hotspot zones
 for quick access (TG99 Time slot1). They are called Sim_VHF and
