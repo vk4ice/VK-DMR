@@ -21,8 +21,8 @@ Zones:
 
 - Edit the plug to include your own callsign, DMR ID and hotspot frequencies
 - In the 'tools' folder, you will find:
-    -Cathy’s (G6AMU) Code Plug Editor: to add new talk groups and DMR ID database updates. 
-    -The standard RT3S (or RT84 if you use that model) software to upload the plug to the radio.
+    - Cathy’s (G6AMU) Code Plug Editor: to add new talk groups and DMR ID database updates. 
+    - The standard RT3S (or RT84 if you use that model) software to upload the plug to the radio.
 - Use the side button to open the squelch
 
 ## Contributing
