@@ -1,8 +1,5 @@
 # VK-DMR Codeplugs for Retevis RT84 & RT3S DMR hand-held radios.
 RT84 and RT3S Codeplugs.
-(I made this available to BARC members about a month ago...then 13
-repeaters were added to the network so it had to be withdrawn just
-as quickly)
 
 Ok Guys,
 
@@ -15,8 +12,8 @@ VHF Hotspot,
 UHF Hotspot,
 Duplex Hotspot,
 (Inside the hotspot zones have been setup for VK DMR and
-Brandmeister). Loads of new TG's for Brandmeister on this version 20210401 in the BM Hotspot Zone only. Repeaters are being added as I have time.
-I'm working to complete RT3S radios first....the RT84 will follow later.
+Brandmeister). Loads of new TG's for Brandmeister on this version 20210401. BM Repeaters have now been added.
+RT3S radio codeplug id completes....the RT84 will follow later.
 
 I have set the BM Hotspot Zone to 439.175 as I can't get my hotspot (Pi-Star) to multi-mode at this stage. I run one hotspot on 439.125 for VKDMR (It is actually a duplex spot -7 offset) and BM on 439.175. Seems they co-exist as long as they are separated by a few meters physically.
 
@@ -31,7 +28,7 @@ talk-groups to get you up and going quickly.
 A Calibrate zone for calibrating your Pi-Star and minimising BER.
 Satellites zone for chasing the birds. (use the side monitor button
 to open the mute)
-All RF DMR repeaters in VK
+All RF DMR repeaters in VK & All Brandmeister repeaters in VK
 
 Other inclusions:
 
