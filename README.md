@@ -19,14 +19,14 @@ Zones:
 
 ## Installation
 
-- Use the tools included to load the codeplug to your HT.
 - Edit the plug to include your own callsign, DMR ID and hotspot frequencies
+- In the 'tools' folder, you will find:
+    -Cathy’s (G6AMU) Code Plug Editor: to add new talk groups and DMR ID database updates. 
+    -The standard RT3S (or RT84 if you use that model) software to upload the plug to the radio.
 - Use the side button to open the squelch
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-I use Cathy’s (G6AMU) Code Plug Editor (the secret sauce) for adding the DMR ID database updates to quickly manipulate the data, add new talk-groups. This in in the files section for you to download. I use the standard RT3S (or RT84 if you use that model) software to upload to the radio
 
 Shoot me an email if you would like changes, alterations and additions. It's difficult keeping up with so much data, but if you would like a new analogue repeater added, email vk4ice@gmail.com
 
