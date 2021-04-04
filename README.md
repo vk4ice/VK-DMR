@@ -22,7 +22,6 @@ Zones:
 - Use the tools included to load the codeplug to your HT.
 - Edit the plug to include your own callsign, DMR ID and hotspot frequencies
 - Use the side button to open the squelch
-- 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
