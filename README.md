@@ -29,3 +29,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 I use Cathy’s (G6AMU) Code Plug Editor (the secret sauce) for adding the DMR ID database updates to quickly manipulate the data, add new talk-groups. This in in the files section for you to download. I use the standard RT3S (or RT84 if you use that model) software to upload to the radio
 
 Shoot me an email if you would like changes, alterations and additions. It's difficult keeping up with so much data, but if you would like a new analogue repeater added, email vk4ice@gmail.com
+
+Listen for me on VK DMR TG53
+
+Best regards,
+
+Dave - VK4ICE
