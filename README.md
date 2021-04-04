@@ -11,9 +11,9 @@ Zones:
 - Marine (Rx only)
 - UHF CB (Rx only)
 - A local zone containing a number of SE Qld repeaters and associated talk-groups to get you up and going quickly
-- A Calibrate zone for calibrating your Pi-Star and minimising BER
+- A Calibrate zone for calibrating your Pi-Star/MMDVM and minimising BER
 - Satellites zone for chasing the birds
-- TG1910 (Links all ARNSW funded repeaters down south)
+- TG1910 (Links all ARNSW funded repeaters down South)
 - TG1911 (Links two ARNSW funded repeaters in Far North Qld)
 - VHF and UHF DMR simplex frequencies are now in the Hotspot zones 
 
