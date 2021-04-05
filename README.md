@@ -28,7 +28,7 @@ Zones:
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Shoot me an email if you would like changes, alterations and additions. It's difficult keeping up with so much data, but if you would like a new analogue repeater added, email vk4ice@gmail.com
+Shoot me an email if you would like changes, alterations and additions. It's difficult keeping up with so much data, but if you would like a new analogue repeater added, email vk4ice@gmail.com or Faraaz VK4FDB at fdsubs@mailbox.org
 
 Listen for me on VK DMR TG53
 
